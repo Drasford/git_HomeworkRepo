@@ -5,3 +5,9 @@ class Homework {
     }
 }
 
+class SecondBranchHomework {
+
+    secondBranchDivide(a,b){
+        return a/b;
+    }
+}
