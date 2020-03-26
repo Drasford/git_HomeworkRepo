@@ -1,17 +1,17 @@
-class Homework {
+class HomeworkThirdBranch {
 
-    divide(a,b){
-        return a / b;
+    subtract(a,b){
+        return a - b;
     }
 }
 
-class SecondBranchHomework {
+class HomeworkChangedInThirdBranch {
 
-    secondBranchDivide(a,b){
+    thirdBranchDivide(a,b){
         return a/b;
     }
 
-    secondBranchAdd(a,b){
+    thirdBranchAdd(a,b){
         return a+b;
     }
 }
