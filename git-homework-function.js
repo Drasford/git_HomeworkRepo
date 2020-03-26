@@ -1,7 +1,7 @@
 class Homework {
 
-     addThreeNumbers(a,b,c){
-        return a + b+ c;
+    multiply(a,b){
+        return a * b;
     }
 }
 
