@@ -1,3 +1,8 @@
-function add(a,b){
-    return a + b;
+
+class Homework {
+
+     add(a,b){
+        return a + b;
+    }
 }
+
